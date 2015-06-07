@@ -1,6 +1,8 @@
 Kafka-php
 ==========
 
+[![Join the chat at https://gitter.im/slavash/kafka-php](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/slavash/kafka-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/nmred/kafka-php.svg?branch=master)](https://travis-ci.org/nmred/Kafka-php)
 
 Kafka-php is a php client with Zookeeper integration for apache Kafka. It only supports the latest version of Kafka 0.8 which is still under development, so this module is _not production ready_ so far.
